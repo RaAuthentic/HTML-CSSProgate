@@ -1,6 +1,6 @@
 # HTML & CSS Progate
 
-### Author: Keindra
+### Hello my name is keindra and this is my documentation about my learning journey in progate
 
 ## Overview
 This repository is a documentation of my learning progress at Progate's HTML & CSS Bootcamp. The purpose of this repository is to track my learning journey and serve as a reference for future web development projects. Throughout this bootcamp, I learned how to create responsive websites using HTML and CSS, and I applied various concepts such as layout design, styling, and media queries. Below is a summary of the key topics I covered.
@@ -48,7 +48,7 @@ Below are GIF demos of the websites I built during the bootcamp:
   ![Demo 3](./demo3.gif)
 
 ## Summary of Skills Acquired
-Throughout the bootcamp, I gained a comprehensive understanding of the following concepts:
+Throughout the progate bootcamp, I gained a comprehensive understanding of the following concepts:
 - Semantic HTML structure and how to organize content effectively.
 - Styling with CSS, including typography, spacing, and visual hierarchy.
 - Creating layouts with both traditional CSS and Flexbox.
